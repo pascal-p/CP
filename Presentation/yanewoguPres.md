@@ -38,9 +38,10 @@ font-family: 'Helvetica'
 Yet Another Next Word Guesser [やねをぐ]
 
 - A word predictor using NLP in R
-- Code available: ...
+- Code available: https://github.com/pascal-p/cp
 - This Presentation: https://rpubs.com/Pascal/cap_final_pres
 - Demo App available: https://lacsap-ml.shinyapps.io/yanewogu/
+
 Context: Coursera JHU, Capstone Project
 
 
