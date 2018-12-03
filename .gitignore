@@ -1,0 +1,7 @@
+*.BAK
+*_cache/
+
+.RData
+.Rhistory
+rsconnect/
+Presentation/yanewoguPres-rpubs.html
