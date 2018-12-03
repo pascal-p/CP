@@ -122,6 +122,9 @@ Screenshot Demo App 5/5
 type: section
 
 <br />
+- Instructions on how to use the demonstration application can be found on the Shiny application itself, "About" tab.  
+  Please check them if you need to.
+<br />
 - Example - prediction and score: <br />
 <img src='./yanewoguPres.md-figure/prediction_ex.png' alt="Prediction example" style="width:100%;height:100%;border:0;float:left;">
 
